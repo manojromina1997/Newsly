@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="source_titles">
+
+        <item>Ars Technica</item>
+        <item>AP</item>
+        <item>BBC News</item>
+        <item>BBC Sports</item>
+        <item>Bild</item>
+        <item>Bloomberg</item>
+        <item>Bussiness Insider</item>
+        <item>Buzz Feed</item>
+        <item>CNBC</item>
+        <item>CNN</item>
+        <item>Daily Mail</item>
+        <item>Der Tagesspiegel</item>
+        <item>Die Zeit</item>
+        <item>Engadget</item>
+        <item>Entertainment</item>
+        <item>ESPN</item>
+        <item>ESPN cricinfo</item>
+        <item>Financial Times</item>
+        <item>Focus</item>
+        <item>Football ITALIA</item>
+        <item>Fortune</item>
+        <item>Four Four Two</item>
+        <item>Fox Sports</item>
+        <item>Google News</item>
+        <item>Gruender Szene</item>
+        <item>Hacker News</item>
+        <item>HandlesBlatt</item>
+        <item>IGN Entertainment</item>
+        <item>Independent</item>
+        <item>Mashable</item>
+        <item>Metro</item>
+        <item>Daily Mirror</item>
+        <item>MTV News</item>
+        <item>National Geographic</item>
+        <item>New Scientist</item>
+        <item>News Week</item>
+        <item>New York Magazine</item>
+        <item>NFL news</item>
+        <item>Polygon</item>
+        <item>Recode</item>
+        <item>Reddit</item>
+        <item>Reuters</item>
+        <item>Sky news</item>
+        <item>Sky Sports News</item>
+        <item>Spiegel Online</item>
+        <item>t3n</item>
+        <item>Talk Sport</item>
+        <item>Techcrunch</item>
+        <item>Tech Radar</item>
+        <item>The Economist</item>
+        <item>The Guardian</item>
+        <item>The Hindu</item>
+        <item>The Huffington Post</item>
+        <item>The Lad Bible</item>
+        <item>The Newyork Times</item>
+        <item>The Next Web</item>
+        <item>The Sport Bible</item>
+        <item>The Telegraph</item>
+        <item>The Times of India</item>
+        <item>The Verge</item>
+        <item>The Wall Street Journal</item>
+        <item>The Washington Post</item>
+        <item>Time</item>
+        <item>USA Today</item>
+        <item>WIRED</item>
+        <item>Wirtschafts Woche</item>
+
+
+    </string-array>
+
+    <string-array name="source_values">
+
+        <item>ars-technica</item>
+        <item>associated-press</item>
+        <item>bbc-news</item>
+        <item>bbc-sport</item>
+        <item>bild</item>
+        <item>bloomberg</item>
+        <item>business-insider</item>
+        <item>buzzfeed</item>
+        <item>cnbc</item>
+        <item>cnn</item>
+        <item>daily-mail</item>
+        <item>der-tagesspiegel</item>
+        <item>die-zeit</item>
+        <item>engadget</item>
+        <item>entertainment-weekly</item>
+        <item>espn</item>
+        <item>espn-cric-info</item>
+        <item>financial-times</item>
+        <item>focus</item>
+        <item>football-italia</item>
+        <item>fortune</item>
+        <item>four-four-two</item>
+        <item>fox-sports</item>
+        <item>google-news</item>
+        <item>gruenderszene</item>
+        <item>hacker-news</item>
+        <item>handlesblatt</item>
+        <item>ign</item>
+        <item>independent</item>
+        <item>mashable</item>
+        <item>metro</item>
+        <item>mirror</item>
+        <item>mtv-news</item>
+        <item>national-geographic</item>
+        <item>new-scientist</item>
+        <item>newsweek</item>
+        <item>new-york-magazine</item>
+        <item>nfl-news</item>
+        <item>polygon</item>
+        <item>recode</item>
+        <item>reddit-r-all</item>
+        <item>reuters</item>
+        <item>sky-news</item>
+        <item>sky-sports-news</item>
+        <item>spiegel-online</item>
+        <item>t3n</item>
+        <item>talksport</item>
+        <item>techcrunch</item>
+        <item>techradar</item>
+        <item>the-economist</item>
+        <item>the-guardian-uk</item>
+        <item>the-hindu</item>
+        <item>the-huffington-post</item>
+        <item>the-lad-bible</item>
+        <item>the-new-york-times</item>
+        <item>the-next-web</item>
+        <item>the-sport-bible</item>
+        <item>the-telegraph</item>
+        <item>the-times-of-india</item>
+        <item>the-verge</item>
+        <item>the-wall-street-journal</item>
+        <item>the-washington-post</item>
+        <item>time</item>
+        <item>usa-today</item>
+        <item>wired-de</item>
+        <item>wirtschafts-woche</item>
+
+    </string-array>
+
+
+
+    <string-array name="sortby_titles">
+        <item>Top</item>
+    </string-array>
+
+    <string-array name="sortby_values">
+        <item>top</item>
+    </string-array>
+
+
+</resources>

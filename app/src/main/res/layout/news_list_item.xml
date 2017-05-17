@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/news_image"
+        android:src="@drawable/news_sample"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/news_title"
+        android:text="Car celebrity Richard Hammond talks about launching the DriveTribe startup"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/news_image"
+        android:layout_toEndOf="@+id/news_image"
+        android:layout_marginTop="14dp"
+        android:layout_marginLeft="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/news_author"
+        android:text="Mike Butcher"
+        android:layout_below="@id/news_title"
+        android:layout_toRightOf="@id/news_image"
+        android:layout_marginTop="14dp"
+        android:layout_marginLeft="10dp"
+        />
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/news_date"
+        android:text="2017-02-17"
+        android:layout_below="@id/news_title"
+        android:layout_toRightOf="@id/news_author"
+        android:layout_marginTop="14dp"
+        android:layout_marginLeft="10dp"
+        />
+
+</RelativeLayout>
